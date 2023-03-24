@@ -32,4 +32,4 @@ def caeser(star_text , shift_amount, cypher_direction):
     caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
     result = input("Would you like to go again ? Yes or NO ").lower()
     if result != "yes":
-        should_continue = False:
+        should_continue = False
